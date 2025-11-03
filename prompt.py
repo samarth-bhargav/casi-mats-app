@@ -70,7 +70,6 @@ Please provide the final answer to this task. You must give the final answer to 
 Please output your final answer in the following JSON format:
 
 Response format:
-- If you can provide the final answer now, respond ONLY with JSON:
   {{
     "final": true,
     "answer": "<compliant final answer>",

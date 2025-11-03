@@ -1,0 +1,9 @@
+{
+  "accepted": 60,
+  "rejected_mistral_too_accurate": 120,
+  "rejected_gpt5_no_refusal": 265,
+  "total": 445,
+  "error_gpt5": 0,
+  "error_mistral": 0,
+  "error_unknown": 0
+}
